@@ -1,0 +1,16 @@
+🎯 Project: Student Grade Calculator
+Build a program that takes student marks and returns grade (A, B, C, etc.) with encouraging messages
+
+    🛠️ Technical Requirements:
+    Use if-elif-else statements for grading logic
+    Add input validation (marks 0-100 only)
+    Create at least one function
+    Add encouraging messages for each grade
+    Use while loop to handle invalid inputs
+
+    📋 Step-by-Step Guide:
+    Day 1: Understand Grading System - Create grade rules document
+    Day 2: Create Input System - Get student name and marks
+    Day 3: Add Grading Logic - Implement if-elif-else conditions
+    Day 4: Add Validation & Loop - Check marks range, handle invalid inputs
+    Day 5: Create Final Program - Combine all parts, add functions, test thoroughly
